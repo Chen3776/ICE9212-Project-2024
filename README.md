@@ -4,35 +4,22 @@ Code Structure:
   --datafiles
 
     --caltech101
-
       --test
-
       --train
-
       --valid
-
       --cat-to-name.json
-
     --flowers102
-
       --test
-
       --train
-
       --valid
-
       --cat-to-name.json
 
   --datasets
 
     --caltech101.py  
-
     --flowers102.py  
-
     --process_caltech.py  
-
     --process_flowers102.py  
-
   --preprocess  
 
     --DatasetExtendWithStableDiffusion.py  
